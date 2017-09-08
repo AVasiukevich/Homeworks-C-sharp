@@ -1,0 +1,16 @@
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\App.g.cs
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer_MarkupCompile.cache
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.g.resources
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer_MarkupCompile.lref
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MainWindow.baml
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\App.baml
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\Themes\Skin_1.baml
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\Themes\Brushes.baml
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\Themes\Skin_2.baml
+D:\Курсы\Пробные проекты\WPF\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\bin\Debug\Mosaic.exe.config
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\bin\Debug\Mosaic.exe
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\bin\Debug\Mosaic.pdb
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.MainForm.resources
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.csproj.GenerateResource.Cache
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.exe
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.pdb
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.MyForm.FormSettingMosaic.resources
+D:\Курсы\Пробные проекты\WF\Mosaic\Mosaic\obj\Debug\Mosaic.MyForm.FormHelp.resources

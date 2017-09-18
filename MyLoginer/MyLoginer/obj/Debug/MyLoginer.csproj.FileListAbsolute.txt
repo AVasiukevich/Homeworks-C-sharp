@@ -1,0 +1,63 @@
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\bin\Debug\MyLoginer.exe.config
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\bin\Debug\MyLoginer.exe
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\bin\Debug\MyLoginer.pdb
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.csprojResolveAssemblyReference.cache
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.MainForm.resources
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.Properties.Resources.resources
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.csproj.GenerateResource.Cache
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.exe
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.pdb
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.Forms.RegNewUser.resources
+C:\Users\st\documents\visual studio 2015\Projects\WF_ClassWork\MyLoginer\obj\Debug\MyLoginer.Forms.RecoveryPassword.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe.config
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\bin\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RecoveryPassword.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RegNewUser.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.MainForm.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csproj.GenerateResource.Cache
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.SuperAdminMode.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.MainUser.resources
+D:\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe.config
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.exe
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.pdb
+D:\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe
+D:\MyLoginer\MyLoginer\bin\Debug\MyLoginer.pdb
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csprojResolveAssemblyReference.cache
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.MainUser.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RecoveryPassword.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RegNewUser.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.SuperAdminMode.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.MainForm.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Properties.Resources.resources
+D:\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csproj.GenerateResource.Cache
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe.config
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\bin\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.MainUser.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RecoveryPassword.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RegNewUser.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.SuperAdminMode.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.MainForm.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\MyLoginer\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csproj.GenerateResource.Cache
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe.config
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\bin\Debug\MyLoginer.exe
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\bin\Debug\MyLoginer.pdb
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.MainUser.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RecoveryPassword.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.RegNewUser.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Forms.SuperAdminMode.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.MainForm.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\Архивы\Vasiukevich_DZ_2\MyLoginer\MyLoginer\obj\Debug\MyLoginer.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe.config
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.pdb
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.exe
+c:\users\st\documents\visual studio 2015\Projects\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.pdb
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe.config
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.exe
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.pdb
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.pdb
+D:\Курсы\Пробные проекты\C#\Day24-20170331T152533Z-001\Day24\AirplanePilotSimulator\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe.config
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.exe
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.pdb
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.exe
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\bin\Debug\AirplanePilotSimulator.pdb
+D:\Курсы\Пробные проекты\C#\AirplanePilotSimulator\AirplanePilotSimulator\obj\Debug\AirplanePilotSimulator.csprojResolveAssemblyReference.cache

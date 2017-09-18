@@ -1,0 +1,32 @@
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\bin\Debug\MailDispatch.exe.config
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\bin\Debug\MailDispatch.exe
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\bin\Debug\MailDispatch.pdb
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.csprojResolveAssemblyReference.cache
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.MainForm.resources
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.Properties.Resources.resources
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.csproj.GenerateResource.Cache
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.exe
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.pdb
+C:\Users\st\Documents\Visual Studio 2015\Projects\WF_ClassWork\MailDispatch\obj\Debug\MailDispatch.MyForm.AddForm.resources
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\bin\Debug\MailDispatch.exe.config
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.exe
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.pdb
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\bin\Debug\MailDispatch.exe
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\bin\Debug\MailDispatch.pdb
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.MainForm.resources
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.MyForm.AddForm.resources
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.csproj.GenerateResource.Cache
+D:\Курсы\Пробные проекты\WF\Emailer\MailDispatch\obj\Debug\MailDispatch.MyForm.AddImage.resources
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\bin\Debug\MailDispatch.exe.config
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.exe
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.pdb
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\bin\Debug\MailDispatch.exe
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\bin\Debug\MailDispatch.pdb
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.csprojResolveAssemblyReference.cache
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.MainForm.resources
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.MyForm.AddForm.resources
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.MyForm.AddImage.resources
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.Properties.Resources.resources
+D:\Курсы\Пробные проекты\WF\Vasiukevich_Emailer\Emailer\MailDispatch\obj\Debug\MailDispatch.csproj.GenerateResource.Cache
